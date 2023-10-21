@@ -20,10 +20,9 @@ This project implements a real-time multi-person posture detection system using 
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11
 - TensorFlow
 - OpenCV
-- Other project dependencies (listed in requirements.txt)
 
 ### Installation
 
