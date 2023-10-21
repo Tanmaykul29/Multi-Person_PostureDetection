@@ -4,7 +4,7 @@
 
 This project implements a real-time multi-person posture detection system using the MoveNet model for pose estimation. It processes video input to detect and visualize keypoint connections, making it suitable for applications in sports analysis, human movement studies, and more.
 
-![Demo](football.gif)
+![Demo](img.png)
 
 ## Features
 
